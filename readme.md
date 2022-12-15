@@ -1,3 +1,5 @@
+# Citadel Data Open Championship 
+
 The Citadel Data Open is a global competition series for data scientists. This year, over 30,000 students from more than a dozen countries took part in 11 regional events, the winners of each regional event were invited to participate in the Data Open Championship. 21 teams made it to the final event. 
 
 This repo is our submission for the 2022 Data Open Championship. We were given `26 longitudinal datasets` about U.S. postsecondary education, collected by National Center for Education Statistics (NCES) and offered through [IPEDS](https://nces.ed.gov/ipeds/use-the-data). We were given `four days` to pose a novel research question and answer it using statistical analysis. 
